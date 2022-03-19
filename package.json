@@ -1,0 +1,24 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "main": "index.html",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "��#\u0000 \u0000i\u0000n\u0000v\u0000a\u0000d\u0000e\u0000r\u0000s\u0000T\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000T\u0000e\u0000s\u0000t\u0000",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaCianz21/invadersTest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MaCianz21/invadersTest/issues"
+  },
+  "homepage": "https://github.com/MaCianz21/invadersTest#readme"
+}
